@@ -5,7 +5,7 @@
 
 你好！我是**好氧菌**（也称：好氧菌菌/haoyangjunjun），是一名编程领域的新手小白👨💻，目前就读于[河北金融学院](https://www.hbfu.edu.cn/)信息安全专业，是一名大四学生
 
-爱熬夜敲代码😴，是外冷内热的社恐，希望未来能在优秀的开源项目中贡献自己的一份力量
+爱熬夜敲代码😴，有点社恐😣，希望未来能在优秀的开源项目中贡献自己的一份力量
 
 ## 正在学习:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
